@@ -1,0 +1,56 @@
+/* add your CSS here */
+
+body{
+  font-family: serif, monospace;
+}
+#animalCard{
+  width: 312px;
+  border: 3px solid black;
+  border-radius: 5px;
+  box-shadow: 0 0 15px gray;
+  padding: 5px;
+  background-color: #ddd;
+
+}
+#animalInformation{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin:5px;
+  background-color: #eee;
+
+
+}
+#name{
+  text-align: center;
+  font-size: 40px;
+  font-family: fantasy,cursive;
+  margin:5px;
+  color: #777;
+
+}
+.image{
+  width: 300px;
+  border :1px solid black;
+  border-radius: 5px;
+  margin:5px;
+
+}
+.mainFact{
+  font-style: italic;
+  text-align: center;
+}
+.label{
+font-weight:bold;
+}
+.list{
+  list-style-type: none;
+  padding: 5px;
+  border-bottom: 1px dotted black;
+  border-top: 1px dotted black;
+
+}
+.descreption{
+  text-align: center;
+
+}
